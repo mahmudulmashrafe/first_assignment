@@ -121,3 +121,5 @@ print("-"*50)
 
 
 #New Task
+
+# Task 1:
